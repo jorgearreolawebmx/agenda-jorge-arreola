@@ -1,0 +1,168 @@
+{
+  "events": [
+    {
+      "id": "af1d6368-b67f-4676-87ac-e84924362af7",
+      "date": "2026-11-14",
+      "category": "XV años",
+      "hours": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "13:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00",
+        "18:00",
+        "19:00",
+        "20:00",
+        "21:00",
+        "22:00",
+        "23:00"
+      ],
+      "client": "Reservación"
+    },
+    {
+      "id": "e2bbd7ff-f4b6-4fc5-9676-e198212008ea",
+      "date": "2026-11-15",
+      "category": "Evento social",
+      "hours": [
+        "12:00",
+        "13:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00"
+      ],
+      "client": "Reservación"
+    },
+    {
+      "id": "58956e27-af3b-4f13-8829-7e82a38f45f7",
+      "date": "2026-11-21",
+      "category": "XV años",
+      "hours": [
+        "12:00",
+        "13:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00",
+        "18:00",
+        "19:00",
+        "20:00",
+        "21:00",
+        "22:00",
+        "23:00"
+      ],
+      "client": "Reservación"
+    },
+    {
+      "id": "f950e8e6-d027-4f39-be52-00ef126f77c0",
+      "date": "2026-11-08",
+      "category": "XV años",
+      "hours": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "13:00"
+      ],
+      "client": "Reservación"
+    },
+    {
+      "id": "e9367003-5f2d-446b-962b-23b019936364",
+      "date": "2026-11-28",
+      "category": "XV años",
+      "hours": [
+        "12:00",
+        "13:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00",
+        "18:00",
+        "19:00",
+        "20:00"
+      ],
+      "client": "Reservación"
+    },
+    {
+      "id": "30250b34-db3e-4960-b42b-ced4a695a290",
+      "date": "2026-12-05",
+      "category": "XV años",
+      "hours": [
+        "12:00"
+      ],
+      "client": "Reservación"
+    },
+    {
+      "id": "3a252c7c-c88b-47f4-92fb-f480048098b1",
+      "date": "2026-12-25",
+      "category": "XV años",
+      "hours": [
+        "00:00"
+      ],
+      "client": "Reservación"
+    },
+    {
+      "id": "097c687c-a4f7-46fe-9f1d-9e903f694c6f",
+      "date": "2026-12-26",
+      "category": "Otro",
+      "hours": [
+        "00:00"
+      ],
+      "client": "Reservación"
+    },
+    {
+      "id": "3490896d-cd24-472e-a1b4-8a12a43d38a7",
+      "date": "2026-12-27",
+      "category": "Otro",
+      "hours": [
+        "00:00"
+      ],
+      "client": "Reservación"
+    },
+    {
+      "id": "7bd99912-b76f-4a26-bbda-afb9ee9fa215",
+      "date": "2026-11-06",
+      "category": "Sesión de estudio",
+      "hours": [
+        "11:00",
+        "12:00",
+        "13:00"
+      ],
+      "client": "Reservación"
+    },
+    {
+      "id": "2e8395af-2254-4cac-9ecc-88358d30c731",
+      "date": "2026-11-09",
+      "category": "Fotografía de producto",
+      "hours": [
+        "11:00"
+      ],
+      "client": "Reservación"
+    },
+    {
+      "id": "03b7a941-91c3-45b7-8587-6c56ae16be22",
+      "date": "2026-11-05",
+      "category": "Sesión navideña",
+      "hours": [
+        "18:00",
+        "19:00",
+        "20:00"
+      ],
+      "client": "Reservación"
+    },
+    {
+      "id": "b46f0d77-870d-4144-8da0-01f30e4236a2",
+      "date": "2026-11-10",
+      "category": "Sesión navideña",
+      "hours": [
+        "10:00",
+        "11:00",
+        "12:00"
+      ],
+      "client": "Reservación"
+    }
+  ],
+  "updatedAt": "2026-11-02T03:25:04.684Z"
+}
